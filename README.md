@@ -1,8 +1,8 @@
-# Minimal Mistakes remote theme starter
+# The Source
 
 Generated from mm-github-pages-starter
 
-Replaced sample content with my own and [configure as necessary](https://mmistakes.github.io/minimal-mistakes/docs/configuration/).
+Replaced sample content with my own [configuration](https://mmistakes.github.io/minimal-mistakes/docs/configuration/).
 
 ---
 
