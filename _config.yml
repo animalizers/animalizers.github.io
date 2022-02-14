@@ -57,12 +57,12 @@ plugins:
 
 author:
   name   : "Author"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "https://avatars.githubusercontent.com/u/8344065"
   bio    : ""
   links:
-#    - label: "Website"
-#      icon: "fas fa-fw fa-link"
-#      url: "https://"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "/fvs/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/animalizers"
