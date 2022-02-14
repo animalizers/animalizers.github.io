@@ -1,9 +1,12 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
-    url: /about/
+  - title: "FVS"
+    description: "Frequently Visited Sites"
+    url: /fvs/
+#  - title: "Posts"
+#    url: /posts/
+#  - title: "Categories"
+#    url: /categories/
+#  - title: "Tags"
+#    url: /tags/
+#  - title: "About"
+#    url: /about/
