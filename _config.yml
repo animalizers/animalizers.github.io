@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Author"
   avatar : "https://avatars.githubusercontent.com/u/8344065"
-  bio    : ""
+  bio    : "Neatly described!"
   links:
     - label: "FVS"
       icon: "fas fa-fw fa-link"
@@ -72,9 +72,9 @@ author:
 
 footer:
   links:
-    - label: "FVS"
-      icon: "fab fa-fw fa-link"
-      url: "https://twitter.com/"
+    - label: "Back to top"
+      icon: "fas fa-fw fa-link"
+      url: "#"
 #    - label: "GitHub"
 #      icon: "fab fa-fw fa-github"
 #      url: "https://github.com/"
