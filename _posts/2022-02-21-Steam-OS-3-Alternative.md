@@ -8,7 +8,7 @@ tag:
 ---
 It\'s actually a Steam OS 3 alternative, not 3 Alternatives to Steam OS. Yeah, don\'t blame me on that!  
 It\'s just a list. Choose whatever distro you wan\'t (either you wanna use daily or just wanna try something different).  
-[It\'s all about you. No, it\'s not!](https://www.youtube.com/watch?v=kytTbwj6miM)  
+[It\'s all about you. Yesn't!](https://www.youtube.com/watch?v=kytTbwj6miM)  
 
 List of Steam OS 3 alternative:  
    - [Nobara Project](https://nobaraproject.org) by GloriousEggroll based on Fedora Project  
