@@ -61,7 +61,7 @@ author:
   bio    : "Neatly described!"
   links:
     - label: "FVS"
-      icon: "fas fa-fw fa-link"
+      icon: "fas fa-fw fa-star"
       url: "/fvs/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
@@ -73,12 +73,9 @@ author:
 footer:
   links:
     - label: "Back to top"
-      icon: "fas fa-fw fa-link"
+      icon: "fas fa-fw fa-arrow-up-to-line"
       url: "#"
-#    - label: "GitHub"
-#      icon: "fab fa-fw fa-github"
-#      url: "https://github.com/"
-
+      
 defaults:
   # _posts
   - scope:
