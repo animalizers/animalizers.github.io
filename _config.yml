@@ -73,7 +73,7 @@ author:
 footer:
   links:
     - label: "Back to top"
-      icon: "fas fa-fw fa-arrow-up-to-line"
+      icon: "fas fa-fw fa-arrow-up"
       url: "#"
       
 defaults:
