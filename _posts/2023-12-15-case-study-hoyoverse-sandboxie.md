@@ -16,9 +16,9 @@ Game Tested:
 
 Step to reproduce:   
 Create a new Standard sandbox.   
-- `Sandbox` > Create new box > Select box type as `Standard Sandbox`   
+`Sandbox` > Create new box > Select box type as `Standard Sandbox`   
 Run by right-clicking the program.   
-Browse Genshin Impact.exe from your "Genshin Impact Game" directory (not launcher.exe).   
+Browse `Genshin Impact.exe` from your "Genshin Impact Game" directory (not launcher.exe).   
 Select `Run as UAC Administrator`, and click OK.   
 Accept Sandboxie UAC prompt.   
 Window may appear incorrectly if you have previously played the game before.   
