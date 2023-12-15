@@ -1,5 +1,5 @@
 ---
-title: "Case study: Hoyoverse Sandboxie Game"
+title: "Case study: Hoyoverse Sandboxie"
 categories:
    - Gaming
 tag:
@@ -7,20 +7,22 @@ tag:
 ---
 
 Test platform:   
+x86_64 Processor   
 Windows 11 Pro 21H2 OS build 22000.2538   
-Sandboxie v1.12.3   
+[Sandboxie-Plus x86_64 v1.12.3](https://github.com/sandboxie-plus/Sandboxie)   
 
 Game Tested:   
 [Running] Genshin Impact v4.2.0   
 
 Step to reproduce:   
-Create a new sandbox.   
-Select Standard Sandbox.   
-Run a program as UAC Admininstrator.   
+Create a new Standard sandbox.   
+- `Sandbox` > Create new box > Select box type as `Standard Sandbox`   
+Run by right-clicking the program.   
 Browse Genshin Impact.exe from your "Genshin Impact Game" directory (not launcher.exe).   
+Select `Run as UAC Administrator`, and click OK.   
 Accept Sandboxie UAC prompt.   
 Window may appear incorrectly if you have previously played the game before.   
-win+tab or alt+tab might fix the issue.   
+`Win + Tab` or `Alt + Tab` might fix the issue.   
 
 
 [Not yet tested] Honkai Impact 3   
