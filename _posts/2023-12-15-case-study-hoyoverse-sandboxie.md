@@ -12,7 +12,7 @@ Windows 11 Pro 21H2 OS build 22000.2538
 [Sandboxie-Plus x86_64 v1.12.3](https://github.com/sandboxie-plus/Sandboxie)   
 
 Game Tested:   
-[Running] Genshin Impact v4.2.0   
+[Running] Genshin Impact v4.3.0   
 
 Step to reproduce:   
 Create a new Standard sandbox.   
@@ -32,7 +32,8 @@ Window may appear incorrectly if you have previously played the game before.
 Ban Status? N/A   
 
 
-Post update log:   
+Post update log (DD/MM/YYYY):   
 Original posted on 15/12/2023   
 Genshin new account created on 15/12/2023   
+Genshin v4.3.0 tested and worked 28/12/2023   
 
