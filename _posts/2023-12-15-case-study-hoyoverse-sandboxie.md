@@ -36,4 +36,4 @@ Post update log (DD/MM/YYYY):
 Original posted on 15/12/2023   
 Genshin new account created on 15/12/2023   
 Genshin v4.3.0 tested and worked 28/12/2023   
-
+Genshin v4.4.0 tested and worked 06/02/2024   
