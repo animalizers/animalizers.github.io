@@ -41,10 +41,12 @@ Window may appear incorrectly if you have previously played the game before.
 Win + Tab or Alt + Tab might temporarily fix the issue. Set the correct resolution after log in.   
 
 Comment: From 08/02/24 on ward I will be using WINDOWS 11 Pro 23H2.   
+   
+### UPDATE: 17/06/24   
+Genshin v4.7 and Sandboxie-Plus 1.13.7   
 
 [Not yet tested] Honkai Impact 3   
 [Not yet tested] HSR   
-
 
 Ban Status? N/A   
 
@@ -56,3 +58,4 @@ Genshin v4.3.0 tested and worked 28/12/2023
 Genshin v4.4.0 tested and worked 06/02/2024   
 Genshin v4.4* 08/02/2024   
 Genshin v4.6 26/04/2024   
+Genshin v4.7 17/06/2024 with Sandboxie-Plus 1.13.7   
