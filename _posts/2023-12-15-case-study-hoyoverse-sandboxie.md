@@ -6,15 +6,15 @@ tag:
    - Hoyoverse
 ---
 
-Test platform:   
+### Test platform:   
 x86_64 Processor   
 Windows 11 Pro 21H2 OS build 22000.2538   
 [Sandboxie-Plus x86_64 v1.12.3](https://github.com/sandboxie-plus/Sandboxie)   
 
-Game Tested:   
+### Game Tested:   
 [Running] Genshin Impact v4.3.0   
 
-Step to reproduce:   
+### Step to reproduce:   
 Create a new Standard sandbox.   
 `Sandbox` > Create new box > Select box type as `Standard Sandbox`   
 Run by right-clicking the program.   
@@ -44,6 +44,11 @@ Comment: From 08/02/24 on ward I will be using WINDOWS 11 Pro 23H2.
    
 ### UPDATE: 17/06/24   
 Genshin v4.7 and Sandboxie-Plus 1.13.7   
+Added image guide   
+
+![Box wizard guide](/assets/images/boxwizard-guide-complete.png)   
+
+![Run program](/assets/images/runprogram-guide-complete.png)   
 
 [Not yet tested] Honkai Impact 3   
 [Not yet tested] HSR   
