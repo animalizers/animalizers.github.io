@@ -64,3 +64,4 @@ Genshin v4.4.0 tested and worked 06/02/2024
 Genshin v4.4* 08/02/2024   
 Genshin v4.6 26/04/2024   
 Genshin v4.7 17/06/2024 with Sandboxie-Plus 1.13.7   
+Genshin v5.0 03/09/2024   
